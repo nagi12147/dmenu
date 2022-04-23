@@ -1,7 +1,7 @@
 # dmenu
 dmenu is a dynamic menu for X, originally designed for dwm. It manages large numbers of user-defined menu items efficiently.
 
-## Latest update
+## Latest Update
 `drw_text: account for fallback fonts in ellipsis_width`
 
 ## Credits
